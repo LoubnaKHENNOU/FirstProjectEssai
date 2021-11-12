@@ -1,4 +1,9 @@
-# FirstProjectEssai
-1. Creation d'une page web en HTML avec titre du projet...
-2. Modification du titre de la page et de sa couleur...
-3. Modification de la couleur de fond...
+- 👋 Hi, I’m @LoubnaKHENNOU
+- 👀 I’m interested in Code
+- 🌱 I’m currently learning Python
+- 📫 How to reach me loubna.khennou.edu@groupe-gema.com
+
+<!---
+LoubnaKHENNOU/LoubnaKHENNOU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
